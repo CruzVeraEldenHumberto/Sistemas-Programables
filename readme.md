@@ -13,4 +13,5 @@
 
 :hourglass_flowing_sand:[C1.1 Cuestionario electrónica básica y sus elementos](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C1.1_EldenCruz_CodeDevelopers.md)
 
+:hourglass_flowing_sand:[C1.2 Circuito electrónico básico](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C1.2_EldenCruz_CodeDevelopers.md)
 
