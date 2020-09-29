@@ -15,3 +15,6 @@
 
 :hourglass_flowing_sand:[C1.2 Circuito electrónico básico](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C1.2_EldenCruz_CodeDevelopers.md)
 
+:hourglass_flowing_sand:[C1.3 Circuito electrónico para uso con sensores y transductores](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C1.3_EldenCruz_CodeDevelopers.md)
+
+
