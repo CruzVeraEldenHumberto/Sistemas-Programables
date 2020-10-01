@@ -17,4 +17,4 @@
 
 :hourglass_flowing_sand:[C1.3 Circuito electrónico para uso con sensores y transductores](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C1.3_EldenCruz_CodeDevelopers.md)
 
-
+:hourglass_flowing_sand:[A1.2 Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, utilizando un simulador, y un LDR (Light dependent Resistor).](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A1.2._EldenCruz_CodeDevelopers.md)
