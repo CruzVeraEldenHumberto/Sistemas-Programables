@@ -23,4 +23,6 @@
 
 :hourglass_flowing_sand:[C1.5 Tipo de sensores de acuerdo con su uso aplicativo](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C1.5_EldenCruz_CodeDevelopers.md)
 
-:trophy:[A.1.3  Realizar una investigación y presentación para ser expuesta en clase sobre el tema de sensores.](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A1.3_EldenCruz_CodeDevelopers.md)
+:trophy:[A.1.3 Realizar una investigación y presentación para ser expuesta en clase sobre el tema de sensores.](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A1.3_EldenCruz_CodeDevelopers.md)
+
+:trophy:[A.1.4 Realizar un sensor medidor de temperatura a través de un circuito electrónico, utilizando un simulador, y un Transistor TMP36.](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A1.4_EldenCruz_CodeDevelopers.md)
