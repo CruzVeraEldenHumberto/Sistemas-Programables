@@ -31,4 +31,6 @@
 
 :hourglass_flowing_sand:[C2.2 Cuestionario Actuadores Eléctricos](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C2.2_EldenCruz_CodeDevelopers.md)
 
+:hourglass_flowing_sand:[C2.3 Circuito temporizador 555](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C2.3_EldenCruz_CodeDevelopers.md)
+
 
