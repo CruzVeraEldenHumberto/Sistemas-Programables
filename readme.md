@@ -28,3 +28,7 @@
 :trophy:[A.1.4 Realizar un sensor medidor de temperatura a través de un circuito electrónico, utilizando un simulador, y un Transistor TMP36.](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A1.4_EldenCruz_CodeDevelopers.md)
 
 :hourglass_flowing_sand:[C2.1 Cuestionario Actuadores y su clasificacion](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C2.1_EldenCruz_CodeDevelopers.md)
+
+:hourglass_flowing_sand:[C2.2 Cuestionario Actuadores Eléctricos](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C2.2_EldenCruz_CodeDevelopers.md)
+
+
