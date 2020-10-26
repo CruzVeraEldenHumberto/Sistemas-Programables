@@ -33,4 +33,4 @@
 
 :hourglass_flowing_sand:[C2.3 Circuito temporizador 555](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C2.3_EldenCruz_CodeDevelopers.md)
 
-
+:trophy:[A.2.1 Investigación sobre actuadores eléctricos](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A2.1_EldenCruz_CodeDevelopers.md)
