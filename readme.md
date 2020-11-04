@@ -36,3 +36,7 @@
 :trophy:[A.2.1 Investigación sobre actuadores eléctricos](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A2.1_EldenCruz_CodeDevelopers.md)
 
 :trophy:[A.2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A2.2_EldenCruz_CodeDevelopers.md)
+
+:hourglass_flowing_sand:[C3.1 Arduino IDE Salida Digital](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.1_EldenCruz_CodeDevelopers.md)
+
+:hourglass_flowing_sand:[C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.2_EldenCruz_CodeDevelopers.md)
