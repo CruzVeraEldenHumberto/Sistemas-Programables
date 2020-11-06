@@ -40,3 +40,5 @@
 :hourglass_flowing_sand:[C3.1 Arduino IDE Salida Digital](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.1_EldenCruz_CodeDevelopers.md)
 
 :hourglass_flowing_sand:[C3.2 Arduino IDE Entrada Digital e impresion serial](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.2_EldenCruz_CodeDevelopers.md)
+
+:hourglass_flowing_sand:[C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.2_EldenCruz_CodeDevelopers.md)
