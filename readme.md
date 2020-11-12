@@ -44,3 +44,5 @@
 :hourglass_flowing_sand:[C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.3_EldenCruz_CodeDevelopers.md)
 
 :hourglass_flowing_sand:[C3.4 Entradas analógica y salida digital](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.4_EldenCruz_CodeDevelopers.md)
+
+:trophy:[A.3.1 Circuito sensor de deteccion de objetos](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A2.2_EldenCruz_CodeDevelopers.md)
