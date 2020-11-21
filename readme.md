@@ -47,4 +47,4 @@
 
 :trophy:[A.3.1 Circuito sensor de deteccion de objetos](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A3.1_EldenCruz_CodeDevelopers.md)
 
-:hourglass_flowing_sand:[C3.6 Arduino IDE, ESP32 y Entrada Analogica](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.4_EldenCruz_CodeDevelopers.md)
+:hourglass_flowing_sand:[C3.6 Arduino IDE, ESP32 y Entrada Analogica](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.6_EldenCruz_CodeDevelopers.md)
