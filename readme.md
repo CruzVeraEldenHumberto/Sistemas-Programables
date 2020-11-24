@@ -51,4 +51,4 @@
 
 :hourglass_flowing_sand:[C3.7 Arduino IDE, ESP32 y PWM](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.7_EldenCruz_CodeDevelopers.md)
 
-:hourglass_flowing_sand:[C3.8 Arduino IDE, ESP32 y Sensor Touch](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.7_EldenCruz_CodeDevelopers.md)
+:hourglass_flowing_sand:[C3.8 Arduino IDE, ESP32 y Sensor Touch](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C3.8_EldenCruz_CodeDevelopers.md)
