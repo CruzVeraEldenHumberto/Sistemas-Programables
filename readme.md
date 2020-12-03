@@ -55,7 +55,7 @@
 
 :trophy:[A3.2 Circuito sensor de tacto a través de un NodeMCU ESP32](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A3.2_EldenCruz_CodeDevelopers.md)
 
-:trophy:[A3.3 Circuito de medición de temperatura a través de un NodeMCU ESP32](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A3.2_EldenCruz_CodeDevelopers.md)
+:trophy:[A3.3 Circuito de medición de temperatura a través de un NodeMCU ESP32](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A3.3_EldenCruz_CodeDevelopers.md)
 
 
 
