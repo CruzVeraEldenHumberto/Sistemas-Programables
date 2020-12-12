@@ -59,3 +59,4 @@
 
 :hourglass_flowing_sand:[ C4.1  Protocolo Bluetooth y el NodeMCU ESP32](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C4.1_EldenCruz_CodeDevelopers.md)
 
+:trophy:[A4.1 Circuito de control para activar y desactivar un motor DC, utilizando  NodeMCU ESP32 por medio de Bluetooth](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A3.3_EldenCruz_CodeDevelopers.md)
