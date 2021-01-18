@@ -66,3 +66,5 @@
 :trophy:[A4.2 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A4.2_EldenCruz_CodeDevelopers.md)
 
 :hourglass_flowing_sand:[C5.2 rquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C5.2_EldenCruz_CodeDevelopers.md)
+
+:trophy:[A5.1 Circuito sensor de iluminación y actuación de luz NodeMCU ESP32 por medio de Wi-Fi](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A4.2_EldenCruz_CodeDevelopers.md)
