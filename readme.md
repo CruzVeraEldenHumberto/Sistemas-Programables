@@ -67,4 +67,4 @@
 
 :hourglass_flowing_sand:[C5.2 rquitectura Cliente-Servidor, utilizando interface Node-red, ESP32 y un actuador](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/C5.2_EldenCruz_CodeDevelopers.md)
 
-:trophy:[A5.1 Actividad Final Identificación del color de un objeto](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A5.1_EldenCruz_CodeDevelopers.md)
+:star:[A5.1 Actividad Final Identificación del color de un objeto](https://github.com/CruzVeraEldenHumberto/Sistemas-Programables/blob/master/blog/A5.1_EldenCruz_CodeDevelopers.md)
